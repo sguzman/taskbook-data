@@ -1,0 +1,699 @@
+{
+    "1": {
+        "_id": 1,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779497633,
+        "description": "german",
+        "isStarred": false,
+        "boards": [
+            "@lang"
+        ],
+        "_isTask": true,
+        "isComplete": true,
+        "inProgress": false,
+        "priority": 1
+    },
+    "2": {
+        "_id": 2,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779575465,
+        "description": "study duolingo",
+        "isStarred": false,
+        "boards": [
+            "My Board"
+        ],
+        "_isTask": false
+    },
+    "3": {
+        "_id": 3,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779708324,
+        "description": "lol",
+        "isStarred": false,
+        "boards": [
+            "@lang"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "4": {
+        "_id": 4,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779746616,
+        "description": "Cartesian plane as a binary switch board on the reals",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "5": {
+        "_id": 5,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779752182,
+        "description": "unit circle projection",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "6": {
+        "_id": 6,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779756861,
+        "description": "programming on real analysis",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "7": {
+        "_id": 7,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779761527,
+        "description": "function for collatz conjecture",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "8": {
+        "_id": 8,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779765949,
+        "description": "recursive function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "9": {
+        "_id": 9,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779770015,
+        "description": "recursively nested function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "10": {
+        "_id": 10,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779774445,
+        "description": "programming collatz function to end",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "11": {
+        "_id": 11,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779780274,
+        "description": "integral transform for length of orbit of collatz conjecture",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "12": {
+        "_id": 12,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779788400,
+        "description": "deconstructing a function by dot product of its derivative to other function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "13": {
+        "_id": 13,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779794084,
+        "description": "scanning line across a function with dot product",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "14": {
+        "_id": 14,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779799803,
+        "description": "multiplying by x as inbuing of curvature",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "15": {
+        "_id": 15,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779805266,
+        "description": "all single-term polynomials have curvature of 2",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "16": {
+        "_id": 16,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779811051,
+        "description": "curvature as a measure of information",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "17": {
+        "_id": 17,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779829863,
+        "description": "curvature as a program to steer function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "18": {
+        "_id": 18,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779845631,
+        "description": "a curve going through origin as a path for origin to travel",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "19": {
+        "_id": 19,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779850717,
+        "description": "a torus that culminates at a pinched point at one side",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "20": {
+        "_id": 20,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779854501,
+        "description": "algebra as a mechanic process",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "21": {
+        "_id": 21,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779858885,
+        "description": "algebraic expressions as function compositions",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "22": {
+        "_id": 22,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779863865,
+        "description": "integral transforms extract and count properties of functions",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "23": {
+        "_id": 23,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779873555,
+        "description": "fractional application of a function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "24": {
+        "_id": 24,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779878060,
+        "description": "treating [0,1] as a torus",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "25": {
+        "_id": 25,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779883158,
+        "description": "Sinify a function",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "26": {
+        "_id": 26,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779888572,
+        "description": "curve-filling (space filling) curve",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "27": {
+        "_id": 27,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779892997,
+        "description": "an equation as an algebraic object",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "28": {
+        "_id": 28,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779909281,
+        "description": "compressed executable that is semantically equivalent to uncompressed",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "29": {
+        "_id": 29,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779924017,
+        "description": "an expression is a program",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "30": {
+        "_id": 30,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779935544,
+        "description": "a program can be reduced to a mathematical expression",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "31": {
+        "_id": 31,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779946361,
+        "description": "all math fields should have some way of uniquely mappings their idiosyncratic algebraic objects back to integers",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "32": {
+        "_id": 32,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779951364,
+        "description": "curves are an infinite series of linear terms",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "33": {
+        "_id": 33,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779958926,
+        "description": "the more curvy, the more linear terms is needed to duplicated it",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "34": {
+        "_id": 34,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779964874,
+        "description": "e is the function number",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "35": {
+        "_id": 35,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779969440,
+        "description": "inside a sum is a more expressive language",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "36": {
+        "_id": 36,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779975011,
+        "description": "function that spits out number of rounds needed for a space curve to hit a random (a,b) in R^2",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "37": {
+        "_id": 37,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779985314,
+        "description": "nested operations maximize the expressiveness of the syntax",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "38": {
+        "_id": 38,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632779992639,
+        "description": "generalized unit measure - allows you to measure anything measuruable relatively",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "39": {
+        "_id": 39,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780001560,
+        "description": "rigorous formalism for how mapping Reals to Reals functions - for example that just take a line and stretch it",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "40": {
+        "_id": 40,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780009663,
+        "description": "f[x]+f'[x] I",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "41": {
+        "_id": 41,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780017294,
+        "description": "f[x]+ ArcCurvature[{x,f[x]},x] I",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "42": {
+        "_id": 42,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780036419,
+        "description": "x ^2 == c; algebraic diff between sqrt and div by x",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "43": {
+        "_id": 43,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780041545,
+        "description": "integration as picking random algortihm to add up area",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "44": {
+        "_id": 44,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780048600,
+        "description": "all integrations can be set from a to b to 0 to 1",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "45": {
+        "_id": 45,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780068158,
+        "description": "there is a direct line ( no need for euler-lagrange optimization) in a set if the geometry of the boundary is a convex hull on the interior set",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "46": {
+        "_id": 46,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780072524,
+        "description": "does homeomorphism always imply homeomorphism between boundaries?",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "47": {
+        "_id": 47,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780077333,
+        "description": "does homeomorphism between boundaries imply homeomorpism between sets?",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "48": {
+        "_id": 48,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780085620,
+        "description": "does euler-lagrange equation map to an easier problem and then solve it?",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "49": {
+        "_id": 49,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780091702,
+        "description": "what is the manual analogue of calculus of variation?",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    },
+    "50": {
+        "_id": 50,
+        "_date": "Mon Sep 27 2021",
+        "_timestamp": 1632780096432,
+        "description": "using complex numbers to model curvature",
+        "isStarred": false,
+        "boards": [
+            "@math"
+        ],
+        "_isTask": true,
+        "isComplete": false,
+        "inProgress": false,
+        "priority": 1
+    }
+}
